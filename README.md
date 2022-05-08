@@ -10,3 +10,11 @@ Le code qui a permis de faire les graphiques dans mon rapport se trouve dans mai
 - Sklearn
 - Matplotlib
 
+## Paramètres :
+|||
+| :---        |    :----:   |
+|  Système d'exploitation    |  Linux Mint 20 Cinnamon|
+| Carte graphique | NVIDIA GTX 1650      |
+| Processeur   | AMD Ryzen 5     | 
+| Version de python | Python 3.8.10 |
+
